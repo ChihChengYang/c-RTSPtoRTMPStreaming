@@ -16,13 +16,12 @@ Usage
 
 ### Usage 
 
-Step1.  Run nginx.exe in :\MinGW\msys\1.0\home\user\nginx_J
-		or start-nginx php.bat and stop-nginx php.bat
+Step1.  Run nginx.exe or [start-nginx php.bat and stop-nginx php.bat]
 
 Step2.  Run RTSPtoRTMPStreaming.exe
 
-Step3.  Run client php   test.php in 
-			:\MinGW\msys\1.0\home\user\nginx_J\html
+Step3.  Run client php   put test.php in nginx.exe's folder 
+ 
 		Use http://127.0.0.1:8080/test.php to check it out
 
 
